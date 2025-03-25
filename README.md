@@ -1,2 +1,2 @@
 # learninggithub
-This repository is me learning how to use github
+It's a markdown file  in the 
